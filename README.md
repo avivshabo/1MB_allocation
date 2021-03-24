@@ -1,2 +1,86 @@
-# 1mv_allocation
-a c program to allocate 16B blocks out of a given 1MB memory with O(1) runtime &amp; O(1) space
+# 1MB_allocation
+a c program to allocate 16B blocks out of a given 1MB memory with O(1) runtime &amp; O(1) space   
+     
+
+		program started with:
+		TOTAL_MEMSPACE: 1024, BLOCK_SIZE: 16, NUM_OF_BLOCKS: 64
+		Received index 1
+		Received index 2
+		Received index 3
+		Received index 4
+		Received index 5
+		Received index 6
+		Received index 7
+		Received index 8
+		Received index 9
+		Received index 10
+		Received index 11
+		Received index 12
+		Received index 13
+		Received index 14
+		Received index 15
+		Received index 16
+		Received index 17
+		Received index 18
+		Received index 19
+		Received index 20
+		Received index 21
+		Received index 22
+		Received index 23
+		Received index 24
+		Received index 25
+		Received index 26
+		Received index 27
+		Received index 28
+		Received index 29
+		Received index 30
+		Received index 31
+		Received index 32
+		Received index 33
+		Received index 34
+		Received index 35
+		Received index 36
+		Received index 37
+		Received index 38
+		Received index 39
+		Received index 40
+		Received index 41
+		Received index 42
+		Received index 43
+		Received index 44
+		Received index 45
+		Received index 46
+		Received index 47
+		Received index 48
+		Received index 49
+		Received index 50
+		Received index 51
+		Received index 52
+		Received index 53
+		Received index 54
+		Received index 55
+		Received index 56
+		Received index 57
+		Received index 58
+		Received index 59
+		Received index 60
+		Received index 61
+		Received index 62
+		Received index 63
+		Received index 64
+		Received index -1
+		memory full, freeing up some memory
+		freeing index 7
+		freeing index 2
+		freeing index 15
+		freeing index 9
+		freeing index 22
+		freeing index 61
+		Received index 61
+		Received index 22
+		Received index 9
+		Received index 15
+		Received index 2
+		Received index 7
+		Received index -1
+
